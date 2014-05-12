@@ -16,3 +16,8 @@ why to keep a journal of errors you come across andhow you fixed it the first ti
 http://bramcohen.livejournal.com/4563.html
 Highlights:
 how architecture can make a good programmer into a great programmer
+
+
+http://www.yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html
+This describes common pitfalls - things to avoid doing in any code you write.
+I agree with his definition of common pitfalls, but disagree with his generalizations about programmers.
