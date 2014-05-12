@@ -21,3 +21,4 @@ how architecture can make a good programmer into a great programmer
 http://www.yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html
 This describes common pitfalls - things to avoid doing in any code you write.
 I agree with his definition of common pitfalls, but disagree with his generalizations about programmers.
+Basically look at the two lists and avoid everything in the first list, and double check that it's actually the best implementation before doing anything in the second list.
