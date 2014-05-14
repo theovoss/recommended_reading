@@ -22,3 +22,7 @@ http://www.yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-pra
 This describes common pitfalls - things to avoid doing in any code you write.
 I agree with his definition of common pitfalls, but disagree with his generalizations about programmers.
 Basically look at the two lists and avoid everything in the first list, and double check that it's actually the best implementation before doing anything in the second list.
+
+
+http://javarevisited.blogspot.sg/2014/05/10-articles-every-programmer-must-read.html
+Read through these and add the good ones.
