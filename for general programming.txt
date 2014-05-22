@@ -8,10 +8,17 @@ importance of architecuter??
 why comments are bad and code should be self documenting
 
 
+http://asyncmanifesto.org/
+
+Highlights:
+An alternative view of project management using moder tools.
+
+
 http://scottndecker.com/blog/2014/04/25/Never-Solve-the-Same-Problem-from-Scratch-Twice/
 
 Highlights:
 why to keep a journal of errors you come across andhow you fixed it the first time
+
 
 http://bramcohen.livejournal.com/4563.html
 Highlights:
