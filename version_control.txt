@@ -1,0 +1,2 @@
+http://wildlyinaccurate.com/a-hackers-guide-to-git
+- Git under the hood.
