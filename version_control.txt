@@ -1,2 +1,6 @@
 http://wildlyinaccurate.com/a-hackers-guide-to-git
 - Git under the hood.
+
+
+http://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/#.U6xMr_ldUmk
+- Why not to use the merge pull request button
