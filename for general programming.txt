@@ -33,3 +33,7 @@ Basically look at the two lists and avoid everything in the first list, and doub
 
 http://javarevisited.blogspot.sg/2014/05/10-articles-every-programmer-must-read.html
 Read through these and add the good ones.
+
+
+http://sourcemaking.com/design_patterns
+design patterns. I should look through some of theses.
