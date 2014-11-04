@@ -1,18 +1,13 @@
 http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer
 Highlights:
-
 code written for those reading it
-
-importance of architecuter??
-
+importance of architecture??
 why comments are bad and code should be self documenting
-
+- although if speed is a factor, this may not be a great idea, at least in interpretted languages.
 
 http://asyncmanifesto.org/
-
 Highlights:
-An alternative view of project management using moder tools.
-
+An alternative view of project management using modern tools.
 
 http://scottndecker.com/blog/2014/04/25/Never-Solve-the-Same-Problem-from-Scratch-Twice/
 
@@ -37,3 +32,6 @@ Read through these and add the good ones.
 
 http://sourcemaking.com/design_patterns
 design patterns. I should look through some of theses.
+
+http://blog.hut8labs.com/coding-fast-and-slow.html?reddit
+Agile programming explained from 'first' principles. aka: why long-term estimates fail and why short term estimates and quick sprints work.
