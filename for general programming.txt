@@ -35,3 +35,7 @@ design patterns. I should look through some of theses.
 
 http://blog.hut8labs.com/coding-fast-and-slow.html?reddit
 Agile programming explained from 'first' principles. aka: why long-term estimates fail and why short term estimates and quick sprints work.
+
+
+https://www.youtube.com/watch?v=JjDsP5n2kSM
+from an independant game developer (Jonathan Blow) who keeps things stupid simple.
