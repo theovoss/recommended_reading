@@ -39,3 +39,6 @@ Agile programming explained from 'first' principles. aka: why long-term estimate
 
 https://www.youtube.com/watch?v=JjDsP5n2kSM
 from an independant game developer (Jonathan Blow) who keeps things stupid simple.
+
+http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/
+How to teach debugging to beginners.
