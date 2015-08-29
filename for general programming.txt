@@ -42,3 +42,9 @@ from an independant game developer (Jonathan Blow) who keeps things stupid simpl
 
 http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/
 How to teach debugging to beginners.
+
+https://github.com/theovoss/recommended_reading/blob/master/quips.txt
+difference between OO and procedural programming. 
+```Procedural code gets information then makes decisions. Object-oriented code tells objects to do things. 
+— Alec Sharp```
+should help with the design of OO by remembering to tell objects to do things, don't ask for data then tell them to do things based off of that.
