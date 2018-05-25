@@ -8,6 +8,8 @@
 
 4. On how you speak as a manager reflects how you think of your team: https://twitter.com/grepory/status/994453764860919808
 
+5. On how to give constructive criticism and what to consider before you do: https://blog.navapbc.com/when-it-comes-to-feedback-start-with-yourself-801684120cca
+
 # For working with a manager
 
 1. This article is about how to manage your relationship with your manager. While it is focussed on working with a micromanager, I really like it's suggestion under the "Start the Conversation" section:
