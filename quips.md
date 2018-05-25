@@ -11,6 +11,8 @@ Whoever oscillates between the thoughts of considering themselves genius and at 
 
 Help! My Reality Check bounced.
 
+Stop wearing your wishbone where your backbone ought to be.
+
 You never truly understand something until you can explain it to your grandmother.
 
 Ideas are good; code is better
@@ -64,5 +66,3 @@ If you want more effective programmers, you will discover that they should not w
 Test software until fear turns to boredom.
 
 You are more likely to complete NAVY SEAL training than click a banner ad.
-
-Stop wearing your wishbone where your backbone ought to be.
