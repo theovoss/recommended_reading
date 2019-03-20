@@ -19,3 +19,7 @@
 https://medium.freecodecamp.org/are-you-being-micro-managed-manage-your-relationship-with-your-manager-instead-9ad10b28bcda
 
 2. TBD
+
+
+# For Team
+Onboarding new people: a nice, fairly short and succinct summary around how to onboard a junior person to your team and what things you need to consider before even hiring for one. https://irenealegre.com/onboarding-junior-designers
